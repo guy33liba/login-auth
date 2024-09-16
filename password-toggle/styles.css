@@ -9,6 +9,7 @@ body {
   width: 400px;
   margin-top: 12px;
   height: 40px;
+  padding: 10px;
   background-color: aliceblue;
   border-radius: 10px;
 }
@@ -19,7 +20,7 @@ body {
   position: relative;
   border-radius: 50%;
   border: 2px solid black;
-  right: 50px;
+  right: 55px;
   top: 13px;
   background: white;
   cursor: pointer;
@@ -31,7 +32,7 @@ body {
   position: relative;
   border-radius: 50%;
   border: 2px solid black;
-  right: 50px;
+  right: 55px;
   top: 13px;
 
   background: white;
