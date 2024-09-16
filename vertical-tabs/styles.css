@@ -1,0 +1,23 @@
+.tab-link {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25%;
+}
+.tab-link button {
+  width: 150px;
+  margin-top: 20px;
+  height: 40px;
+}
+.result {
+  width: 400px;
+  margin-top: 27%;
+  height: 200px;
+  border: 1px solid black;
+}
+body {
+  display: flex;
+}
+.active {
+  color: green;
+}
