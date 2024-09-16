@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputs input {
+  width: 100%; /* Set to 100% to be responsive */
+  margin-top: 12px;
+  height: 30px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+.eye {
+  width: 30px;
+  height: 30px;
+  z-index: 1;
+  position: absolute;
+  left: 58%;
+  top: 49%;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.btn {
+  width: 220px; /* Set to 100% to be responsive */
+  text-align: center;
+  height: 30px;
+  margin-left: 26%;
+  margin-top: 20px;
+  background-color: aliceblue;
+  cursor: pointer; /* Optional, adds a pointer on hover */
+}
